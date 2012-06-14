@@ -35,7 +35,7 @@
 								</ul></li>
 								<li>En général
 								<ul>
-									<li><a href="#nom">Changer pas de nom&nbsp;?</a></li>
+									<li><a href="#nom">Changer de nom&nbsp;?</a></li>
 									<li><a href="#hommes">Que des hommes dans votre parti&nbsp;?</a></li>
 									<li><a href="#ailleurs">Vos idées sont dans un autre Parti.</a></li>
 								</ul></li>
