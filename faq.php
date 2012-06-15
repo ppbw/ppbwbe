@@ -30,7 +30,7 @@
 									<li><a href="#systeme">Que reprochez-vous au système politique actuel&nbsp;?</a></li>
 									<li><a href="#populiste">Êtes-vous populistes / poujadistes&nbsp;?</a></li>
 									<li><a href="#utile">Je préfère voter pour un gros parti, pour que mon vote soit utile...</a></li>
-									<li><a href="#hierarchie">Pas de hiérarchie ches les Pirates&nbsp;?</a></li>
+									<li><a href="#hierarchie">Pas de hiérarchie chez les Pirates&nbsp;?</a></li>
 									<li><a href="#situation">Droite ou gauche&nbsp;?</a></li>
 								</ul></li>
 								<li>En général
