@@ -5,16 +5,15 @@
 	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
 	
 	<hgroup>
-		<h1 class="pageheader">« Nous sommes tous des pirates ! » Le Parti Pirate, la démocratie du troisième millénaire!</h1>
+		<h1 class="pageheader">Le Parti Pirate, la démocratie du troisième millénaire.</h1>
 	</hgroup>
     
 	<nav class="clear"> <!-- The nav link semantically marks your main site navigation -->
 		<ul>
 			<li><a href="/">Accueil</a></li>
-			<li><a href="/ensavoirplus.php">En savoir plus</a></li>
-			<li><a href="/blog/">News</a></li>
-			<li><a href="/faq.php">F.A.Q.</a></li>
-			<li><a href="/contact.php">Contact</a></li>
+			<li><a href="ensavoirplus.php">En savoir plus</a></li>
+			<li><a href="faq.php">F.A.Q.</a></li>
+			<li><a href="contact.php">Contact</a></li>
 		</ul>		
 	</nav>
 		

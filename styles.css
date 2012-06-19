@@ -169,7 +169,6 @@ h2{
 	font-size:2.2em;
 	font-weight:normal;
 	letter-spacing:0.01em;
-	text-transform:uppercase;
 }
 
 h3{
@@ -313,7 +312,6 @@ article{
 	margin:3em 0;
 	padding:20px;
 	color:#ffffff;
-	text-shadow:0 2px 0 black;
 }
 
 article ul{

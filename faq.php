@@ -21,23 +21,23 @@
 							<ul>
 								<li>Notre vision du monde
 								<ul>
-									<li><a href="#auteur">Supprimer le droit d'auteur?</a></li>
-									<li><a href="#directe">Démocratie directe ?</a></li>
+									<li><a href="#auteur">Sur le droit d'auteur ?</a></li>
+									<li><a href="#directe">Sur la démocratie directe ?</a></li>
 								</ul></li>
 								<li>Le Parti Pirate
 								<ul>
-									<li><a href="#difference">Quelles différences par rapport aux autres partis&nbsp;?</a></li>
-									<li><a href="#systeme">Que reprochez-vous au système politique actuel&nbsp;?</a></li>
-									<li><a href="#populiste">Êtes-vous populistes / poujadistes&nbsp;?</a></li>
-									<li><a href="#utile">Je préfère voter pour un gros parti, pour que mon vote soit utile...</a></li>
-									<li><a href="#hierarchie">Pas de hiérarchie chez les Pirates&nbsp;?</a></li>
-									<li><a href="#situation">Droite ou gauche&nbsp;?</a></li>
+									<li><a href="#difference">Sur sa différence ?</a></li>
+									<li><a href="#systeme">Que reprochez-vous au système politique actuel ?</a></li>
+									<li><a href="#populiste">Êtes-vous populistes / poujadistes ?</a></li>
+									<li><a href="#utile">Vote utile ?</a></li>
+									<li><a href="#hierarchie">Quid de la hiérarchie chez les Pirates ?</a></li>
+									<li><a href="#situation">Droite ou gauche ?</a></li>
 								</ul></li>
 								<li>En général
 								<ul>
-									<li><a href="#nom">Changer de nom&nbsp;?</a></li>
-									<li><a href="#hommes">Que des hommes dans votre parti&nbsp;?</a></li>
-									<li><a href="#ailleurs">Vos idées sont dans un autre Parti.</a></li>
+									<li><a href="#nom">Pourquoi ce nom ?</a></li>
+									<li><a href="#hommes">La place des femmes chez les Pirates ?</a></li>
+									<li><a href="#ailleurs">Vos idées sont piratées</a></li>
 								</ul></li>
 							</ul>
 						</div>
