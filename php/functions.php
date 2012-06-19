@@ -8,7 +8,7 @@ function dernierTweet() {
 
 	// Prefix - some text you want displayed before your latest tweet.
 	// (HTML is OK, but be sure to escape quotes with backslashes: for example href=\"link.html\")
-	$prefix = "<b>Dernier tweet : </b>";
+	$prefix = "<p><b>Dernier tweet de @pp_pw: </b></p>";
 
 	// Suffix - some text you want display after your latest tweet. (Same rules as the prefix.)
 	$suffix = "";
@@ -33,10 +33,19 @@ function derniereModif() {
 // Affichera : somefile.txt a été modifié le : December 29 2002 22:16:23.
 
 	$filename = $_SERVER["SCRIPT_FILENAME"] ;
+	
 	if (file_exists($filename)) {
-		echo "Modifié le " . date ("d.m.Y à H:i:s.", filemtime($filename));
+		echo "Modifié le " . date ("d.m.Y à H:i:s", filemtime($filename));
 	}
 
 }
+
+function nav_current($page) {
+	
+		if (stristr($_SERVER["SCRIPT_FILENAME"],$page,true)) {
+			echo "class=nav-current";
+		}
+}
+
 
 ?>

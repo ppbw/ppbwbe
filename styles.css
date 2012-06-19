@@ -6,13 +6,12 @@
 
 #news { 
 	display:block;
-	position : absolute;
 	padding : 0px 0px 0px;
-	float : left;
+	float : right;
+	text-align : right;
 	margin-top : 85px;
-	margin-left : 570px;
 	width : 300px;
-	color : #562178;
+	text-shadow: 0 1px 1px #ccc;
 }
 
 #twitter {
@@ -27,10 +26,6 @@
 	margin-left : 0px;
 }
 
-/*#box1text {
-	margin-left : 12px;
-}*/
-
 #box2 {
 	position : absolute;
 	float : left;
@@ -39,10 +34,6 @@
 	margin-right : 0px;
 }
 
-/*#box2text {
-	margin-left : 328px;
-}*/
-
 #box3 {
 	position : absolute;
 	float : left;
@@ -50,10 +41,6 @@
 	margin-left : 632px;
 }
 
-/*#box3text {
-	margin-left : 644px; 
-}*/
-	
 #container {
 	width : 960px;
 	height : 260px;
@@ -61,7 +48,7 @@
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
-	top: 15px;
+	top: 35px;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
 	border-radius:10px;
@@ -87,7 +74,7 @@
 	box-shadow:0 5px 5px #333333;
 	-moz-box-shadow:0 5px 5px #333333;
 	-webkit-box-shadow:0 5px 5px #333333;
-	border : 3px solid #adaeff;
+	border : 3px solid #25A2FF;
 }
 
 figcaption.boxtext {
@@ -112,7 +99,7 @@ figcaption.boxtext {
 
 
 figcaption.boxtext:hover {
-	text-shadow:0 3px 3px #562178;
+	text-shadow:0 3px 3px #000;
 }
 
 figcaption.boxtext a{
@@ -121,7 +108,7 @@ figcaption.boxtext a{
 
 figcaption.boxtext a:hover{
 	text-decoration:none;
-	color:#adaeff;
+	color:#25A2FF;
 }
 
 header,footer,
@@ -134,10 +121,10 @@ figure{
 
 body{
 	/* Setting the default text color, size, page background and a font stack: */
-	font-size:1em;
+	font-size: 100%;
 	color:#000;
 	background-color:#fff;
-	font-family:Arial, Helvetica, sans-serif;
+	font-family : Verdana,Helvetica,Sans-serif;
 }
 
 /* Hyperlink Styles: */
@@ -153,7 +140,7 @@ a img{
 /* Headings: */
 
 h1,h2,h3{
-	font-family:"Myriad Pro","Helvetica Neue",Helvetica,Arial,Sans-Serif;
+	font-family: "Trebuchet MS", "Trebuchet", "Lucida Grande", Verdana ;
 	text-shadow:0 1px 1px black;
 }
 
@@ -161,7 +148,7 @@ h1,h2,h3{
 	font-size:135%;
 	font-weight:normal;
 	margin: 0px 40px 10px;
-	text-shadow: 0 1px 1px #003366;
+	text-shadow: 0 1px 1px;
 }
 
 
@@ -241,23 +228,28 @@ nav ul li{
 	display:inline;
 }
 
-nav ul li a,
-nav ul li a:visited{
-	color:#565656;
+nav ul li a, nav ul li a:visited{
 	display:block;
 	float:left;
 	font-size:1em;
 	font-weight:bold;
 	margin:5px 2px;
 	padding:7px 10px 4px;
-	text-shadow:0 1px 1px white;
 	text-transform:uppercase;
 }
 
-nav ul li a:hover{
+nav ul li a:hover {
 	text-decoration:none;
-	background-color:#f0f0f0;
+	background-color:#25A2FF;
+	color : #FFF;
 }
+
+.nav-current {
+	text-decoration:none;
+	background-color:#25A2FF;
+	color : #FFF;
+}
+
 
 nav, article, nav ul li a,figure{
 	/* Applying CSS3 rounded corners: */
@@ -269,6 +261,27 @@ nav, article, nav ul li a,figure{
 .social{
 	float:right;
 	text-align:right;
+	padding-right : 10px;
+}
+
+
+.hometext {
+	float:left;
+	text-align:left;
+	width : 60%;
+}
+
+.lasttweet{
+	float:right;
+	text-align:left;
+	width : 30%;
+	height : 100%;
+	background : #FFF;
+	padding : 10px;
+	color : #000;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
 }
 
 a.facebook-link, a.twitter-link, a.gplus-link{
@@ -286,9 +299,6 @@ a.twitter-link{
 }
 a.gplus-link{
 	background:url("img/googleplus-32x32.png") no-repeat right center;
-}
-
-.wiki{
 }
 
 /* Article styles: */
@@ -319,7 +329,7 @@ article ul{
 }
 
 article a, article a:visited {
-	color:#259dff;  /*#259dff;*/
+	color:#25A2FF;  /*#259dff;*/
 	text-decoration:none;
 	outline:none;
 }
@@ -367,9 +377,9 @@ figure img{
 	text-align:justify;
 }
 #faq .toc{
-	margin:20px 40px;
+	margin:10px 0px;
 	padding:10px;
-	background:#adaeff;
+	background:#fff;
 	color:#562178;
 	border:2px solid white;
 	text-shadow:none;
@@ -378,15 +388,12 @@ figure img{
 	-webkit-column-count: 2;
 	-webkit-column-gap: 20px;
 	column-count: 2;
-	column-gap: 20px;$
+	column-gap: 20px;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
 	border-radius:10px;
 }
 
-#faq .toc a{
-	color:#562178;
-}
 
 #faq .toc ul {
 	list-style-type:none;
@@ -403,12 +410,10 @@ figure img{
 a.top{
 	float:right;
 	display:bloc;
-	margin:10px 30px 0px 10px;
-	height:15px;
-	width:25px;
-	background:url("img/arrow_sprite.png") no-repeat -535px -620px;
-	border:0px solid yellow;
-	text-decoration:none;
+	margin: -35px -30px 0px 0px;
+	height:20px;
+	width:20px;
+	background:url("img/arrow_back.png") no-repeat;
 }
 
 a.top:hover{
@@ -416,11 +421,11 @@ a.top:hover{
 }
 
 a.back{
-	background:url("img/arrow_sprite.png") no-repeat -697px -617px;
+	background:url("img/arrow_back.png") no-repeat;
 	padding-left:20px;
 	display:block;
 	height:20px;
-	padding-top:3px;
+	margin-bottom:-30px;
 }
 
 /* Footer styling: */
@@ -434,6 +439,7 @@ footer{
 
 footer p{
 	margin-bottom:-2.5em;
+	color:#999999;
 	position:relative;
 }
 
@@ -446,18 +452,15 @@ footer a,footer a:visited{
 }
 
 footer a:hover{
-	text-decoration:none;
-	/*text-shadow:0 1px 0 black;*/
+	color:#25A2FF;
 }
 
-footer .by{
+footer .left{
 	float:left;
+	margin-left : 40px;
 }
 
-footer .up{
+footer .right{
 	float:right;
-}
-
-.designby {
-	color : green;
+	margin-right : 40px;
 }
