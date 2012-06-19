@@ -141,7 +141,6 @@ a img{
 
 h1,h2,h3{
 	font-family: "Trebuchet MS", "Trebuchet", "Lucida Grande", Verdana ;
-	text-shadow:0 1px 1px black;
 }
 
 .pageheader{
@@ -372,10 +371,18 @@ figure img{
 
 /* FAQ */
 
+
+
 #faq p, #faq h4{
 	margin : 10px 30px;
 	text-align:justify;
 }
+
+#faq h4{
+	color : #25A2FF;
+}
+
+
 #faq .toc{
 	margin:10px 0px;
 	padding:10px;
