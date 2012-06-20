@@ -86,6 +86,7 @@ figcaption.boxtext {
 	top:-200px; 
 	width : 250px;
 	margin-left:15px;
+	font-family: "Trebuchet MS", "Trebuchet", "Lucida Grande", Verdana ;
 }
 
 .ie6 figcaption.boxtext,

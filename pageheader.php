@@ -6,7 +6,7 @@
 	
 	
 		
-		<h1 class="pageheader">Le Parti Pirate contribue à la démocratie du troisième millénaire.</h1>
+		<h1 class="pageheader">Le Parti Pirate, la démocratie du troisième millénaire</h1>
 		
 		<div class="social">
 			<a href="https://twitter.com/#%21/pp_bw" class="external text twitter-link" rel="nofollow"></a>
