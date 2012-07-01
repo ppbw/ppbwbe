@@ -22,6 +22,7 @@
 							<h4> ...sur la vision du monde pirate</h4>
 							<ul>
 							<li> <a href="http://falkvinge.net/pirate-wheel/" class="external free" rel="nofollow">http://falkvinge.net/pirate-wheel/ (Anglais)</a>
+							</li><li><a href="http://www.roussel-zeter.eu/spip.php?article38" rel=nofollow>Les principes de base de la roue des pirate.</a>
 							</li><li> <a href="http://ploum.net/post/parti-pirate-nouvelle-democracie" class="external free" rel="nofollow">http://ploum.net/post/parti-pirate-nouvelle-democracie</a>
 							</li></ul>
 							<h4>...sur l'actualité pirate dans le monde</h4>
