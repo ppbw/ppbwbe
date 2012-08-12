@@ -40,7 +40,9 @@
 							</li><li> le Parti Pirate français&nbsp;: <a href="http://www.partipirate.org" class="external free" rel="nofollow">http://www.partipirate.org</a>
 							</li><li> sur Wikipedia, le <a href="http://fr.wikipedia.org/wiki/Parti_pirate_international" class="external text" rel="nofollow">Parti Pirate Internatinal</a>, les <a href="http://fr.wikipedia.org/wiki/Parti_pirate" class="external text" rel="nofollow">Partis Pirate</a>
 							</li></ul>
-							<p>
+							<h4>Documents de campagne</h4>
+							<ul><li>Quelques publications, affiches et autres documents de campagne <a href="publications/">sont également disponibles ici</a>.</ul>
+							<p>&nbsp;</p>
 	                    </div>
                     
                     <a href="#" onclick="history.back(); return false;" class="back"></a>
