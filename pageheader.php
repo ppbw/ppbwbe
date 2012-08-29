@@ -22,6 +22,7 @@
 			<li><a <?php nav_current("ensavoirplus"); ?>  href="ensavoirplus.php">En savoir plus</a></li>
 			<li><a <?php nav_current("faq"); ?>  href="faq.php">F.A.Q.</a></li>
 			<li><a <?php nav_current("contact"); ?>  href="contact.php">Contact</a></li>
+			<li><a <?php nav_current("contact"); ?>  href="wiki">Wiki</a></li>
 		</ul>		
 	</nav>
 	

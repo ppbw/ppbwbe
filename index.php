@@ -40,6 +40,7 @@
 				<div class="hometext">
 					<p><b>Nous sommes des pirates, pourquoi pas vous?</b></p>
 					<p>Vous voulez participer? venez discuter sur le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow">forum</a>, ou contribuer à notre  <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a>.</p>
+					<p><img src="img/Logo-Pirate-Blanc.png" width="30"> Quelques affiches sont disponibles <a href="publications">ici</a></p>
 					<!-- <form action="http://admin.infomaniak.ch/mail/mailinglist_process.php" method="POST">
 					<p>Inscrivez-vous à notre Newsletter :					
 					<input name="maillist" type="hidden" value="cHAuYmUuYnJhYmFudHdhbGxvbkBwaXJhdGVwYXJ0eS5iZQ==" />

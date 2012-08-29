@@ -99,67 +99,18 @@ $path = __DIR__ . '/';
 $entries = get_grouped_entries($path);
 ?>
 <!DOCTYPE html>
-<html lang="de">
+<html lang="fr">
   <head>
     <meta charset="utf-8"/>
-    <style>
-      body {
-        background-color: #eeeeee;
-        font-family: Verdana, Arial, sans-serif;
-        font-size: 90%;
-        margin: 4em 0;
-      }
-
-      article,
-      footer {
-        display: block;
-        margin: 0 auto;
-        width: 480px;
-      }
-
-      a {
-        color: #004466;
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
-      }
-      a:visited {
-        color: #666666;
-      }
-
-      article {
-        background-color: #ffffff;
-        border: #cccccc solid 1px;
-        -moz-border-radius: 11px;
-        -webkit-border-radius: 11px;
-        border-radius: 11px;
-        padding: 0 1em;
-      }
-      h1 {
-        font-size: 140%;
-      }
-      ol {
-        line-height: 1.4em;
-        list-style-type: disc;
-      }
-      li.directory a:before {
-        content: '[ ';
-      }
-      li.directory a:after {
-        content: ' ]';
-      }
-
-      footer {
-        font-size: 70%;
-        text-align: center;
-      }
-    </style>
+	<link rel="stylesheet" type="text/css" href="http://www.ppbw.be/styles.css" />
     <title>ppbw :: Publications</title>
   </head>
   <body>
-
-    <article>
+	<section id="page">
+	<a href ="/" class="logo"><img src="../img/Logo-bw.png" alt="logo du ppbw"></a>
+    <div class="articleBody clear">
+    <article id="Outils">
+	
       <h1>Quelques affiches, banderolles et autres</h1>
       <ol>
 <?php
@@ -172,10 +123,10 @@ foreach ($entries as $entry => $is_dir) {
 ?>
       </ol>
     </article>
-
+	</div>
     <footer>
       <p>directory index script written by <a href="http://homework.nwsnet.de/">Jochen Kupperschmidt</a></p>
     </footer>
-
+	</section>
   </body>
 </html>
