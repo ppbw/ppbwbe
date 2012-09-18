@@ -13,7 +13,25 @@
 	
 	<link rel="stylesheet" type="text/css" href="styles.css" />
 	<link rel="Shortcut Icon" type="image/x-icon" href="img/favicon.ico" />
-	
+    <style type="text/css">
+    @import "css/jquery.countdown.css";
+    #countDown {
+        max-width: 360px;
+        margin-left: auto ;
+        margin-right: auto ;
+    }
+    </style>
+    
+    <script type="text/javascript" src="js/jquery-1.8.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+    <script type="text/javascript" src="js/jquery.countdown-fr.js"></script>
+    <script type="text/javascript">
+    $(function () {
+        $.countdown.setDefaults({description: 'avant les élections'});
+        var electionDay = new Date(2012,9,14);
+        $('#countDown').countdown({until: electionDay});
+    });
+    </script>
 	<!-- Internet Explorer HTML5 enabling code: -->
 	
 	<!--[if IE]>
