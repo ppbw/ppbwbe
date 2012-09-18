@@ -212,6 +212,8 @@ nav{
 	box-shadow:0 1px 1px #333333;
 
     font-size: 75%;
+
+    max-width: 50%;
 }
 
 /* The clearfix hack to clear the floats: */
