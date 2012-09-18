@@ -27,7 +27,7 @@
     <script type="text/javascript" src="js/jquery.countdown-fr.js"></script>
     <script type="text/javascript">
     $(function () {
-        $.countdown.setDefaults({description: 'avant les élections'});
+        $.countdown.setDefaults({description: "avant l'abordage !"});
         var electionDay = new Date(2012,9,14);
         $('#countDown').countdown({until: electionDay});
     });
