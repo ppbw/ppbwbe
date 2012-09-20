@@ -12,8 +12,8 @@
                 
                 <article id="Proposition"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
                     <hgroup>
-                    <h2>Election 2012 : composition de la liste Pirate</h2>
-                    <h3>Liste 7</h3>
+                    <h2>Élections communales et provinciales du 14 octobre 2012</h2>
+                    <h3>Composition de la liste PIRATE - Liste 7</h3>
                     </hgroup>
                     
                     <div class="line"></div>
