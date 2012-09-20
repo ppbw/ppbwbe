@@ -9,7 +9,8 @@
 		<article id="elections2012">
 				<div>
 					<p>
-						Participez avec le Parti Pirate à l'abordage du Brabant Wallon pour les élections communales et provinciales du 14 octobre 2012 en votant Pirate
+						Participez avec le Parti Pirate à l'abordage du Brabant Wallon pour les élections communales et provinciales du 
+						14 octobre 2012 en votant pour la <a href="listespirates.php">liste PIRATE</a>
 					</p>
 					<ul>
 						<li><a href="listespirates.php#OLLN">à Ottignies-Louvain-la-Neuve</a></li>
