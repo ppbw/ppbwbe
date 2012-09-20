@@ -22,11 +22,14 @@
                     
                     <section id="lists">
                     
-							<div id="ottignies" class="marginLeft25">
+							<div id="ottignies" class="marginLeft25 clear">
                      
                     	<hgroup>
                     	<h3><a name="OLLN" id="OLLN"></a>Commune de Ottignies-Louvain-la-Neuve</h3>
                     	</hgroup>
+                    	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+                    	<img src="img/pirate_olln_2012.jpg" alt="Pirates OLLN"/>
+                     </figure>
                     	<ol>
                     	<li> Lionel Dricot (Limelette)</li>
                     	<li> Valérie Depauw (Louvain-la-Neuve)	</li>
@@ -39,10 +42,10 @@
 							<li> Antoine Wilmet (Limelette)</li>
 							</ol>
                     	</div>
-                    	</section>
-                    	<div class="line"></div>                    
+                    	
+                    	<div class="line" style="clear:both;"></div>                    
                     
-                     <div id="districtWavre" class="marginLeft25">
+                     <div id="districtWavre" class="marginLeft25 clear">
                      
                     	<hgroup>
                     	<h3><a name="DISWAV" id="DISWAV"></a>Province de Brabant-Wallon</h3>
@@ -61,21 +64,27 @@
                     	<li> Valérie Depauw (Louvain-la-Neuve)	</li>
                     	<li> Adrien le Maire (Lasne)</li>
                     	</ol>
+                    	
                     	</div>
-                    	<div class="line"></div>
-                    	<div id="districtNivelles" class="marginLeft25">
+                    	
+                    	<div class="line" style="clear:both;"></div>
+                    	
+                    	<div id="districtNivelles" class="marginLeft25 clear">
                      
                     	<hgroup>
                     	<h3><a name="DISNIV" id="DISNIV"></a>Province de Brabant-Wallon</h3>
                     	<h4>District de Nivelles</h4>
                     	</hgroup>
+                    	<figure> <!-- The figure tag marks data (usually an image) that is part of the article -->
+                    	<img src="img/pirate_bwniv_2012.jpg" alt="Pirates OLLN"/>
+                     </figure>
                     	<ol>
                     	<li> Alexandra Coulougnon (Rebecq)</li>
                     	<li> Alexis Goffin (Braine-l'Alleud)</li>
                     	<li> Nicolas Ykman (Braine-l'Alleud)</li>
                     	</ol>
                     	</div>
-                    	<div class="line"></div>
+                    	<div class="line" style="clear:both;"></div>
                     	
                     	<p>
                     		<strong>NB</strong>: une candidate "sympathisante" est une candidate qui ne souhaite pas sièger si elle est élue, 
