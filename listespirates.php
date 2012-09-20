@@ -16,7 +16,7 @@
                     <h3>Composition de la liste PIRATE - Liste 7</h3>
                     </hgroup>
                     
-                    <div class="line"></div>ze
+                    <div class="line"></div>
                     
                     <div class="articleBody clear">
                     
