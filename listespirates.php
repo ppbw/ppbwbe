@@ -12,7 +12,7 @@
                 
                 <article id="Proposition"> <!-- The new article tag. The id is supplied so it can be scrolled into view. -->
                     <hgroup>
-                    <h2>Election 2012 composition de la liste Pirate</h2>
+                    <h2>Election 2012 : composition de la liste Pirate</h2>
                     <h3>Liste 7</h3>
                     </hgroup>
                     
