@@ -16,7 +16,7 @@
                     <h3>Composition de la liste PIRATE - Liste 7</h3>
                     </hgroup>
                     
-                    <div class="line"></div>
+                    <div class="line"></div>ze
                     
                     <div class="articleBody clear">
                     
@@ -87,7 +87,7 @@
                     		Le Parti Pirate est en effet contre le principe de la liste complète à tout prix, quitte à mettre 
                     		des personnes peu motivées ou de simples connaissances. Tous les candidats pirates, à l'exception 
                     		des sympathisants, sont des membres très actifs, participant aux réunions et avec une réelle 
-                    		volonté de s'investir dans la commune
+                    		volonté de s'investir dans leur commune ou leur province.
                     	</p>
                     	
                     	</section>
