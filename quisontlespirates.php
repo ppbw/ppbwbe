@@ -30,6 +30,7 @@
 						
 						<p>Plus pratiquement, les Pirates belges sont aussi des équipes, à travers le pays, qui se rassemblent dans une autonomie certaine, de manière à promouvoir la réflexion, les échanges d'idées et les initiatives. En Brabant Wallon, le Crew (l'équipage pirate) est coordonnée par trois personnes mais beaucoup de pirates participent aux réunions mensuelles. Venez nous rencontrer pour discuter !</p>
                     </div>
+                    
                     <div class="line"></div>
                     <section id="codexPirate">
 					<header>
@@ -38,7 +39,7 @@
 					<h3>Le Code Pirate</h3>
 					</hgroup>
 					</header>
-					
+					<div class="line"></div>
 					<h4>I - Les Pirates sont libres</h4>
 					<p>
 					Les Pirates chérissent la liberté, sont indépendants, autonomes, et refusent toute forme d’obédience 
