@@ -80,7 +80,7 @@
                      </figure>
                     	<ol>
                     	<li> Alexandra Coulougnon (Rebecq)</li>
-                    	<li> Alexis Goffin (Braine-l'Alleud)</li>
+                    	<li> <a href="http://www.pirateparty.be/wiki/index.php/User:Alexis">Alexis Goffin</a> (Braine-l'Alleud)</li>
                     	<li> <a href="http://www.pirateparty.be/wiki/index.php/User:Nico">Nicolas Ykman</a> (Braine-l'Alleud) - <em><a href="http://www.artimuses.be/">artimuses.be</a></em></li>
                     	</ol>
                     	</div>
