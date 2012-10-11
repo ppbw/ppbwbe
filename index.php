@@ -19,6 +19,7 @@
 							<li><a href="listespirates.php#DISNIV">district de Nivelles</a></li>					
 						</ul></li>
 					</ul>
+
 				</div>
 		</article>
 		
@@ -54,7 +55,9 @@
 			<div class="clear">
 				<div class="hometext">
 					<p><b>Nous sommes des pirates, pourquoi pas vous?</b></p>
-					<p>Vous voulez participer? venez discuter sur le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow">forum</a>, ou contribuer à notre  <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a>.</p>
+                    <iframe width="560" height="315" src="http://www.youtube.com/embed/Ezeym2t9D9w" frameborder="0" allowfullscreen></iframe>
+					<p style="font-size:50%;"><em>Merci aux <a href="http://www.pplalouviere.be/">Parti Pirate de La Louvière</a> pour la réalisation de cette vidéo</em></p>
+                    <p>Vous voulez participer? venez discuter sur le <a href="http://forum.pirateparty.be/forumdisplay.php?fid=22" class="external text" rel="nofollow">forum</a>, ou contribuer à notre  <a href="http://www.pirateparty.be/wiki/index.php/Crew_BW">wiki</a>.</p>
 					<p><img src="img/Logo-Pirate-Blanc.png" width="30"> Quelques affiches sont disponibles <a href="publications">ici</a></p>
 					<!-- <form action="http://admin.infomaniak.ch/mail/mailinglist_process.php" method="POST">
 					<p>Inscrivez-vous à notre Newsletter :					
@@ -62,7 +65,8 @@
 					<input name="action" type="hidden" value="add" />
 					<input name="url" type="hidden" value="http://pirateparty.be/?page_id=65&#038;lang=en" />
 					<input name="email" size="20" type="text" placeholder="Email" />
-					<input name="add" type="submit" value="Go" /></p></form> -->	
+					<input name="add" type="submit" value="Go" /></p></form> -->
+
 				</div>
 				<div class="lasttweet">
 					<?php dernierTweet(); ?> <!-- Derniers Tweet de @pp_bw -->
