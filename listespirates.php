@@ -31,8 +31,8 @@
                     	<img src="img/pirate_olln_2012.jpg" alt="Pirates OLLN"/>
                      </figure>
                     	<ol>
-                    	<li> Lionel Dricot (Limelette)</li>
-                    	<li> Valérie Depauw (Louvain-la-Neuve)	</li>
+                    	<li> Lionel Dricot (Limelette) - <em><a href="http://ploum.net">ploum.net</a></em></li>
+                    	<li> <a href="http://www.pirateparty.be/wiki/index.php/User:Valerie">Valérie Depauw</a> (Louvain-la-Neuve)	</li>
 							<li> Michel Thayse (Louvain-la-Neuve)</li>
 							<li> Fabienne Neuwels (Louvain-la-Neuve), sympathisante</li>
 							<li> Frédéric Minne (Louvain-la-Neuve)	</li>
@@ -60,8 +60,8 @@
                     	<li> Sophie Lantsoght (Louvain-la-Neuve), sympathisante</li>
                     	<li> Frédéric Minne (Louvain-la-Neuve)	</li>
                     	<li> Fabienne Neuwels (Louvain-la-Neuve), sympathisante</li>
-                    	<li> Lionel Dricot (Limelette)</li>
-                    	<li> Valérie Depauw (Louvain-la-Neuve)	</li>
+                    	<li> Lionel Dricot (Limelette) - <em><a href="http://ploum.net">ploum.net</a></em></li>
+                    	<li> <a href="http://www.pirateparty.be/wiki/index.php/User:Valerie">Valérie Depauw</a> (Louvain-la-Neuve)	</li>
                     	<li> Adrien le Maire (Lasne)</li>
                     	</ol>
                     	
@@ -81,7 +81,7 @@
                     	<ol>
                     	<li> Alexandra Coulougnon (Rebecq)</li>
                     	<li> Alexis Goffin (Braine-l'Alleud)</li>
-                    	<li> Nicolas Ykman (Braine-l'Alleud)</li>
+                    	<li> <a href="http://www.pirateparty.be/wiki/index.php/User:Nico">Nicolas Ykman</a> (Braine-l'Alleud) - <em><a href="http://www.artimuses.be/">artimuses.be</a></em></li>
                     	</ol>
                     	</div>
                     	<div class="line" style="clear:both;"></div>
