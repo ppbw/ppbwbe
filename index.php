@@ -9,17 +9,16 @@
 		<article id="elections2012">
 				<div>
 					<p>
-						Participez avec le Parti Pirate à l'abordage du Brabant Wallon pour les élections communales et provinciales du 
-						14 octobre 2012 en votant pour la <a href="listespirates.php">liste PIRATE</a>
+						Merci à tous les électeurs qui ont participé avec le Parti Pirate à l'abordage du Brabant Wallon en votant pour la <a href="listespirates.php">liste PIRATE</a> ce dimanche :
 					</p>
 					<ul>
-						<li><a href="listespirates.php#OLLN">à Ottignies-Louvain-la-Neuve</a></li>
-						<li>dans le Brabant Wallon<ul>
-							<li><a href="listespirates.php#DISWAV">district de Wavre</a></li>
-							<li><a href="listespirates.php#DISNIV">district de Nivelles</a></li>					
+						<li>nous sommes passé tout près de l'exploit <a href="listespirates.php#OLLN">à Ottignies-Louvain-la-Neuve</a> avec 5,16% (936 voix), à 14 voix seulement d'un siège</li>
+						<li>dans le Brabant Wallon, le Parti Pirate a réalisé 2,61% (5984 voix)<ul>
+							<li><a href="listespirates.php#DISWAV">district de Wavre</a>: 2,76% (3.588 voix)</li>
+							<li><a href="listespirates.php#DISNIV">district de Nivelles</a>: 2,41% (2396 voix)</li>					
 						</ul></li>
 					</ul>
-
+                    <p><em><a href="http://elections2012.wallonie.be/results/fr/index.html">Résultats détaillés sur elections2012.wallonie.be</a></em></p>
 				</div>
 		</article>
 		
