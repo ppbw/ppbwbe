@@ -11,7 +11,7 @@
 		
 		<h1 class="pageheader">Le Parti Pirate, la démocratie du troisième millénaire</h1>
 		
-        <div id="countDown"></div>
+        <!-- div id="countDown"></div -->
 		<div class="social">
 			<a href="https://twitter.com/#%21/pp_bw" class="external text twitter-link" rel="nofollow"></a>
 			<a href="https://plus.google.com/u/0/b/108484344208949422944/" class="external text gplus-link" rel="nofollow"></a>
