@@ -24,9 +24,9 @@
                             <a href="http://www.pirateparty.be/wiki/index.php/Election_results_2012">Wiki du parti pirate belge</a>
                         </em>
                     </p>
-                    <!-- p>
-                        Bien qu'un peu déçus de ne pas avoir pu obtenir ce premier siège, cela ne va pas nous empêcher d'agir. Nous ne vous donnons pas rendez-vous en 2018, ni en 2014, mais aujourd'hui, demain, après-demaim, ... pour continuer à pirater notre démocratie. En particulier, nous vous attendons ce vendredi 19 pour notre debriefing de campagne. Venez tous faire entendre votre voix.
-                    </p> -->
+                    <p>
+                        Bien qu'un peu déçus de ne pas avoir pu obtenir ce premier siège, cela ne va pas nous empêcher d'agir. Nous ne vous donnons pas rendez-vous en 2018, ni en 2014, mais aujourd'hui, demain, après-demain, ... pour continuer à pirater notre démocratie. En particulier, nous vous attendons ce vendredi 19 pour notre debriefing de campagne. Venez tous faire entendre votre voix : à l'abordage !
+                    </p>
 				</div>
 		</article>
 		
