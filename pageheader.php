@@ -2,7 +2,7 @@
 <header> <!-- Defining the header section of the page with the appropriate tag -->	
 
 	<div id="news">
-        Rencontre des pirates et debriefing des élections ce <b>vendredi 19 octobre 2012 à 19h30</b> lieu à déterminer.  <b>Feel welcome!</b>
+        Rencontre des pirates et debriefing des élections ce <b>vendredi 19 octobre 2012 à 19h30</b> à la Fattoria, Rue de la Baraque 120 B à Louvain-la-Neuve.  <b>Feel welcome!</b>
     </div>
     </div>
 	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
