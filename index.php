@@ -14,7 +14,7 @@
 					<ul>
 						<li>nous sommes passé tout près de l'exploit <a href="listespirates.php#OLLN">à Ottignies-Louvain-la-Neuve</a> avec 5,16% (936 voix), à 14 voix seulement d'un siège</li>
 						<li>dans le Brabant Wallon, le Parti Pirate a réalisé 2,61% (5984 voix)<ul>
-							<li><a href="listespirates.php#DISWAV">district de Wavre</a>: 2,76% (3.588 voix)</li>
+							<li><a href="listespirates.php#DISWAV">district de Wavre</a>: 2,76% (3588 voix)</li>
 							<li><a href="listespirates.php#DISNIV">district de Nivelles</a>: 2,41% (2396 voix)</li>					
 						</ul></li>
 					</ul>
