@@ -27,8 +27,6 @@ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 24);
 piwikTracker.trackPageView();
 piwikTracker.enableLinkTracking();
 } catch( err ) {}
-</script><noscript><p><img
-src="http://stat.fritalk.com/piwik.php?idsite=24" style="border:0"
-alt="" /></p></noscript>
+</script><noscript><p><img src="http://stat.fritalk.com/piwik.php?idsite=24" style="border:0" alt="" /></p></noscript>
 <!-- End Piwik Tracking Code -->
 
