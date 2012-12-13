@@ -2,7 +2,7 @@
 <header> <!-- Defining the header section of the page with the appropriate tag -->	
 
 	<div id="news">
-        Rencontre des pirates <b>ce vendredi 9 novembre</b> à 19h30, rue Vallée Bailly 88, 1420 Braine-l'Alleud  <b>Feel welcome!</b>
+        Rencontre des pirates <b>ce vendredi 14 décembre</b> à 19h30 au café le Grand-place, 1348 Louvain-la-Neuve <b>Feel welcome!</b>
     </div>
     </div>
 	<a href="/"><img src="img/Logo-bw.png" alt="logo du ppbw"/></a>
